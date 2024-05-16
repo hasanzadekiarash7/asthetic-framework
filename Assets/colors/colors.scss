@@ -1,0 +1,207 @@
+// !! grays
+.color-gray-50 {
+  color: #f1f3f6;
+}
+.color-gray-100 {
+  color: #e4e7eb;
+}
+.color-gray-200 {
+  color: #d7dbe2;
+}
+.color-gray-300 {
+  color: #bcc3cf;
+}
+.color-gray-400 {
+  color: #a3adbc;
+}
+.color-gray-500 {
+  color: #8a97aa;
+}
+.color-gray-600 {
+  color: #728098;
+}
+.color-gray-700 {
+  color: #5c6c84;
+}
+.color-gray-800 {
+  color: #4c596c;
+}
+.color-gray-900 {
+  color: #444f5f;
+}
+.color-gray-950 {
+  color: #2d343f;
+}
+
+// !! reds
+.color-reds-50 {
+  color: #fef2f3;
+}
+.color-reds-100 {
+  color: #fee2e4;
+}
+.color-reds-200 {
+  color: #fecacd;
+}
+.color-reds-300 {
+  color: #fca5aa;
+}
+.color-reds-400 {
+  color: #f77279;
+}
+.color-reds-500 {
+  color: #ed3842;
+}
+.color-reds-600 {
+  color: #db2731;
+}
+.color-reds-700 {
+  color: #b81d26;
+}
+.color-reds-800 {
+  color: #b81d26;
+}
+.color-reds-900 {
+  color: #b81d26;
+}
+// !! greens
+.color-green-50 {
+  color: #edfcf4;
+}
+.color-green-100 {
+  color: #d3f8e2;
+}
+.color-green-200 {
+  color: #abefca;
+}
+.color-green-300 {
+  color: #75e0ac;
+}
+.color-green-400 {
+  color: #3dca8a;
+}
+.color-green-500 {
+  color: #18a86b;
+}
+.color-green-600 {
+  color: #0d8e5a;
+}
+.color-green-700 {
+  color: #0a724a;
+}
+.color-green-800 {
+  color: #0b5a3d;
+}
+.color-green-900 {
+  color: #0a4a33;
+}
+// !! oranges
+.color-orange-50 {
+  color: #fdf6f3;
+}
+.color-orange-100 {
+  color: #fdeae3;
+}
+.color-orange-200 {
+  color: #fcd8cc;
+}
+.color-orange-300 {
+  color: #f8bda9;
+}
+.color-orange-400 {
+  color: #f39d80;
+}
+.color-orange-500 {
+  color: #e8734b;
+}
+.color-orange-600 {
+  color: #d4582e;
+}
+.color-orange-700 {
+  color: #b24723;
+}
+.color-orange-800 {
+  color: #943d20;
+}
+.color-orange-900 {
+  color: #7b3821;
+}
+// !! blues
+.color-blue-50 {
+  color: #f1f6fd;
+}
+.color-blue-100 {
+  color: #deebfb;
+}
+.color-blue-200 {
+  color: #c5ddf8;
+}
+.color-blue-300 {
+  color: #9dc8f3;
+}
+.color-blue-400 {
+  color: #6fa9eb;
+}
+.color-blue-500 {
+  color: #4d89e4;
+}
+.color-blue-600 {
+  color: #386dd8;
+}
+.color-blue-700 {
+  color: #2f5ac6;
+}
+.color-blue-800 {
+  color: #2c4aa1;
+}
+.color-blue-900 {
+  color: #29417f;
+}
+// !! magentas
+.color-magenta-50 {
+  color: #fdf6fd;
+}
+.color-magenta-100 {
+  color: #faecfb;
+}
+.color-magenta-200 {
+  color: #f4d8f6;
+}
+.color-magenta-300 {
+  color: #eeb9ee;
+}
+.color-magenta-400 {
+  color: #e698e5;
+}
+.color-magenta-500 {
+  color: #d362d2;
+}
+.color-magenta-600 {
+  color: #b643b2;
+}
+.color-magenta-700 {
+  color: #963590;
+}
+.color-magenta-800 {
+  color: #7b2d76;
+}
+.color-magenta-900 {
+  color: #662961;
+}
+// gradients
+.gradient-blue-orange {
+  background: linear-gradient(180deg, #b0e1fa 0%, #e7ecef 37%, #f9f0eb 100%);
+}
+
+.gradient-white {
+  background: linear-gradient(180deg, #e4e7eb 0%, #f1f3f6 100%);
+}
+
+.gradient-blue-yellow {
+  background: linear-gradient(
+    180deg,
+    #dff1fa 0%,
+    #eff6fb 14.06%,
+    rgba(253, 242, 236, 0.47) 52.08%
+  );
+}
